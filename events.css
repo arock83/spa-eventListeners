@@ -1,0 +1,28 @@
+.color {
+	color: blue;
+}
+
+.large {
+	font-size: 2em;
+}
+
+.border {
+	border: 2px solid pink;
+}
+
+.rounded {
+	border-radius: 10%;
+}
+
+article section:nth-child(1) {
+	font-weight: bold;
+}
+
+article section:last-child {
+	font-weight: bold;
+	font-style: italic;
+}
+
+button {
+	display: block;
+}
